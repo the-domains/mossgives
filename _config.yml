@@ -1,0 +1,28 @@
+name: MossGives
+favicon: null
+layout_spectrum: 0.4002778548747301
+typography_spectrum: 0.3752702896017581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.22660972201265395
+  lightness: 0.9176775054074824
+  saturation: 0.5296713691204786
+  rhythmicContrast: 0.789428923279047
+purpose: []
